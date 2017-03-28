@@ -11,10 +11,15 @@
     "url": "git+https://github.com/rlmcelrath/reactStarter.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "Rebecca McElrath",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/rlmcelrath/reactStarter/issues"
   },
-  "homepage": "https://github.com/rlmcelrath/reactStarter#readme"
+  "homepage": "https://github.com/rlmcelrath/reactStarter#readme",
+  "dependencies": {
+    "babel-core": "^6.24.0",
+    "babel-preset-latest": "^6.24.0",
+    "babel-preset-react": "^6.23.0"
+  }
 }
